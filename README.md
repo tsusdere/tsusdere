@@ -10,7 +10,7 @@ When I am not programming I like to build [Gunpla](https://www.usagundamstore.co
     - [Email](mailto:faadnd@utexas.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 
-## Noteable Projects
+## Projects
 I have experience working with ML and DL libraries such as Skickit-learn, TensorFlow, PyTorch, and OpenCV just to name a few. 
 
  ⚡ Noteable Projects:
