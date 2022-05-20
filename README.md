@@ -13,7 +13,7 @@ When I am not programming I like to build [Gunpla](https://www.usagundamstore.co
 ## Projects
 I have experience working with ML and DL libraries such as Skickit-learn, TensorFlow, PyTorch, and OpenCV just to name a few. 
 
- ⚡ Noteable Projects:
+⚡Noteable Projects:
   - [Generating Anime](https://github.com/tsusdere/Generating-Anime)
         
     - Developed a GAN model to generate anime faces from a noise vector.
