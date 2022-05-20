@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 
 <!--
 **tsusdere/tsusdere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
