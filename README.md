@@ -7,7 +7,7 @@ I currently attend [The Univeristy of Texas at Austin](https://www.cs.utexas.edu
 - 🔭 I’m currently working on learning MERN stack for web development and practice problems in LeetCode.
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/faadnd/)
-    - [Email](faadnd@utexas.edu)
+    - [Email](mailto:faadnd@utexas.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 <!--
 **tsusdere/tsusdere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
