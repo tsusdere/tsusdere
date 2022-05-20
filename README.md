@@ -4,6 +4,11 @@ I am currently a Graphics Software Engineer at [Intel](https://www.intel.com/con
 I currently attend [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am persuing my M.S. in Computer science with a focus in Machine Learning. Prior, to that I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
 
 
+- 🔭 I’m currently working on learning MERN stack for web development and practice problems in LeetCode.
+- 📫 How to reach me:
+    - [LinkedIn](https://www.linkedin.com/in/faadnd/)
+    - [Email](faadnd@utexas.edu)
+
 <!--
 **tsusdere/tsusdere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
