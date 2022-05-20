@@ -1,7 +1,7 @@
 ## Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 I am currently a Graphics Software Engineer at [Intel](https://www.intel.com/content/www/us/en/homepage.html). Where I work with the validation team in pre-silicon for GFX IP models using Python, SQL, Perl, and Splunk. 
 
-I currently am attending [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am persuing my M.S. in Computer science with a focus in Machine Learning. Prior, to that I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
+I currently attend [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am persuing my M.S. in Computer science with a focus in Machine Learning. Prior, to that I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
 
 
 <!--
