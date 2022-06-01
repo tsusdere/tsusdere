@@ -4,7 +4,6 @@ I am currently a Graphics Software Engineer Intern at [Intel](https://www.intel.
 I currently attend [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am persuing my M.S. in Computer science with a focus in Machine Learning. Prior to that, I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
 When I am not programming I like to build [Gunpla](https://www.usagundamstore.com/) models as well as go to the gym!
 
-- 🔭 I’m currently working on learning MERN stack for web development and practice problems in LeetCode.
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/faadnd/)
     - [Email](mailto:faadnd@utexas.edu?subject=[GitHub]%20Source%20Han%20Sans)
