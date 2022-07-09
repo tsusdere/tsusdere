@@ -2,7 +2,7 @@
 I am currently a Graphics Software Engineer Intern at [Intel](https://www.intel.com/content/www/us/en/homepage.html). Where I work with the validation team in pre-silicon for GFX IP models using Python, Perl, SQL, and Splunk. 
 
 I currently attend [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am persuing my M.S. in Computer science with a focus in Machine Learning. Prior to that, I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
-When I am not programming I like to build [Gunpla](https://www.usagundamstore.com/) models as well as go to the gym!
+When I am not programming I like to build [Gundam](https://www.usagundamstore.com/) models as well as go to the gym!
 
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/faadnd/)
