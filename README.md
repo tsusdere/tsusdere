@@ -1,4 +1,4 @@
-## Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25">
+## Hello World,
 
 I currently attend [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am persuing my M.S. in Computer science with a focus in Machine Learning. Prior to that, I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
 When I am not programming I like to build [Gundam](https://www.usagundamstore.com/) models as well as go to the gym!
