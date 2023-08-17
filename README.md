@@ -1,15 +1,11 @@
 ## Hello World,
 
-I currently attend [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am pursuing my M.S. in Computer Science with a focus in Machine Learning. Prior to that, I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
+I'm currently finishing up at [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am pursuing my M.S. in Computer Science with a focus in Machine Learning. Prior to that, I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
 When I am not programming, I like to build [Gundam](https://www.usagundamstore.com/) models as well as go to the gym!
-
-- 📫 How to reach me:
-    - [LinkedIn](https://www.linkedin.com/in/faadnd/)
-    - [Email](mailto:faadnd@utexas.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 ---
 
-## Languages and Tools 🧰
+### Languages and Tools 🧰
 
 <img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
 <img align="left" alt="go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
@@ -32,3 +28,18 @@ When I am not programming, I like to build [Gundam](https://www.usagundamstore.c
 <img align="left" alt="graphql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
 <img align="left" alt="graphql" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="lua" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+<br><br>
+
+#
+
+### Learning 🧑‍🎓 ⭐
+I'm a student at heart and always love to learn new things! I'm currently learning:
+
+![CUDA](https://img.shields.io/badge/CUDA-green?logo=nvidia&logoColor=white&style=for-the-badge)
+![OpenGl](https://img.shields.io/badge/OpenGL-blue?logo=opengl&logoColor=white&style=for-the-badge)
+![LLVM](https://img.shields.io/badge/LLVM-black?logo=llvm&logoColor=white&style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/Hadoop-orange?logo=apachehadoop&logoColor=black&style=for-the-badge)
+![Spark](https://img.shields.io/badge/Spark-yellow?logo=apachespark&logoColor=black&style=for-the-badge)
+
+
+
