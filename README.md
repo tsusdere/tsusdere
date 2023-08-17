@@ -1,7 +1,10 @@
-## Hi there 👋,
+## Hi there <img src="https://github.com/tsusdere/tsusdere/assets/27039604/3fde5637-850c-4e47-9495-6b3faf621dce" width="33" height="33" />
 
-I'm currently finishing up at [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am pursuing my M.S. in Computer Science with a focus in Machine Learning. Prior to that, I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
-When I am not programming, I like to build [Gundam](https://www.usagundamstore.com/) models as well as go to the gym!
+I'm currently finishing up my M.S. in Computer Science @ [UT Austin 🤘](https://www.cs.utexas.edu/). I received my B.S. in Computer Science from [UTSA 🤙](https://cs.utsa.edu/) where I tutored CS & Math!\
+When I'm not online I like to watch anime and love building Gundam models <img src="https://github.com/tsusdere/tsusdere/assets/27039604/85a8e3b3-b9ad-40d7-9fa1-62a9c84bfc3a" width="33" height="33"/>
+
+I also prefer vim over emacs and tabs with 2 spaces <img src="https://github.com/tsusdere/tsusdere/assets/27039604/5fe8f09d-c65a-4e9c-b0b6-3a13377da083" width="33" height="33" />
+
 
 ---
 
@@ -32,8 +35,9 @@ When I am not programming, I like to build [Gundam](https://www.usagundamstore.c
 
 #
 
-### Learning 🧑‍🎓 ⭐
-I'm a student at heart and always love to learn new things! I'm currently learning:
+### Learning ⭐
+I'm a student at heart and always love to learn new things, specially if it involves compilers and programming languages 😜 \
+I'm currently learning:
 
 ![CUDA](https://img.shields.io/badge/CUDA-green?logo=nvidia&logoColor=white&style=for-the-badge)
 ![OpenGl](https://img.shields.io/badge/OpenGL-blue?logo=opengl&logoColor=white&style=for-the-badge)
