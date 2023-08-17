@@ -1,4 +1,4 @@
-## Hello World,
+## Hi there 👋,
 
 I'm currently finishing up at [The Univeristy of Texas at Austin](https://www.cs.utexas.edu/) where I am pursuing my M.S. in Computer Science with a focus in Machine Learning. Prior to that, I received my B.S. in Computer Science from [The University of Texas at San Antonio](https://cs.utsa.edu/) where I worked as a CS & Math tutor.
 When I am not programming, I like to build [Gundam](https://www.usagundamstore.com/) models as well as go to the gym!
@@ -40,6 +40,4 @@ I'm a student at heart and always love to learn new things! I'm currently learni
 ![LLVM](https://img.shields.io/badge/LLVM-black?logo=llvm&logoColor=white&style=for-the-badge)
 ![Hadoop](https://img.shields.io/badge/Hadoop-orange?logo=apachehadoop&logoColor=black&style=for-the-badge)
 ![Spark](https://img.shields.io/badge/Spark-yellow?logo=apachespark&logoColor=black&style=for-the-badge)
-
-
 
