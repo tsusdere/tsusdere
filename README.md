@@ -3,7 +3,8 @@
 I'm currently finishing up my M.S. in Computer Science @ [UT Austin 🤘](https://www.cs.utexas.edu/). I received my B.S. in Computer Science from [UTSA 🤙](https://cs.utsa.edu/) where I tutored CS & Math!\
 When I'm not online I like to watch anime and love building Gundam models <img src="https://github.com/tsusdere/tsusdere/assets/27039604/85a8e3b3-b9ad-40d7-9fa1-62a9c84bfc3a" width="33" height="33"/>
 
-I prefer vim over emacs, tabs with 2 spaces, and use arch btw <img src="https://github.com/tsusdere/tsusdere/assets/27039604/5fe8f09d-c65a-4e9c-b0b6-3a13377da083" width="33" height="33" />
+I prefer vim over emacs, tabs with 2 spaces, and use arch btw <img src="https://github.com/tsusdere/tsusdere/assets/27039604/4bf4a5a8-073d-45e7-8835-80c0c3ba2008" width="33" height="33" />
+
 
 
 ---
