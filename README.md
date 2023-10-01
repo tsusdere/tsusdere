@@ -5,7 +5,8 @@ When I'm not online I like to watch anime and love building Gundam models <img s
 
 I prefer vim over emacs, tabs with 2 spaces, and use arch btw <img src="https://github.com/tsusdere/tsusdere/assets/27039604/4bf4a5a8-073d-45e7-8835-80c0c3ba2008" width="33" height="33" />
 
-
+> The more that you read, the more things you will know. The more that you learn, the more places you'll go
+> \- Dr.Seuss
 
 ---
 
