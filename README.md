@@ -36,11 +36,4 @@ When I'm not online I like to watch anime and love building Gundam models <img s
 
 ### Learning ⭐
 I'm a student at heart and always love to learn new things, specially if it involves compilers and programming languages 😜 \
-I'm currently learning:
-
-![CUDA](https://img.shields.io/badge/CUDA-green?logo=nvidia&logoColor=white&style=for-the-badge)
-![OpenGl](https://img.shields.io/badge/OpenGL-blue?logo=opengl&logoColor=white&style=for-the-badge)
-![LLVM](https://img.shields.io/badge/LLVM-black?logo=llvm&logoColor=white&style=for-the-badge)
-![Hadoop](https://img.shields.io/badge/Hadoop-orange?logo=apachehadoop&logoColor=black&style=for-the-badge)
-![Spark](https://img.shields.io/badge/Spark-yellow?logo=apachespark&logoColor=black&style=for-the-badge)
-
+I'm currently learning some **HTMX** with **Go** + some **networking** 💻
