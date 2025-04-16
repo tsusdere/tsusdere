@@ -1,5 +1,5 @@
-## Hi there <img src="https://github.com/tsusdere/tsusdere/assets/27039604/3fde5637-850c-4e47-9495-6b3faf621dce" width="33" height="33" />
-I'm a Software Engineer working on this site! :octocat: and I enjoy learning new things everyday! 🤓\
+## Hi! <a href="https://emoji.gg/emoji/5226_miku"><img src="https://cdn3.emoji.gg/emojis/5226_miku.png" width="40px" height="32px" alt="miku"></a>
+I'm a Software Engineer working on this site! :octocat: and I enjoy learning new things everyday!\
 When I'm not online I like to watch anime and love building Gundam models <img src="https://github.com/tsusdere/tsusdere/assets/27039604/85a8e3b3-b9ad-40d7-9fa1-62a9c84bfc3a" width="33" height="33"/>
 
 > The more that you read, the more things you will know. The more that you learn, the more places you'll go
@@ -7,7 +7,7 @@ When I'm not online I like to watch anime and love building Gundam models <img s
 
 ---
 
-### Languages and Tools 🧰
+### Tools (> ͡⎚ ω ͡⎚)>✎
 
 <img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>          
 <img align="left" alt="go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
@@ -34,6 +34,12 @@ When I'm not online I like to watch anime and love building Gundam models <img s
 
 #
 
-### Learning ⭐
-I'm a student at heart and always love to learn new things, specially if it involves compilers and programming languages 😜 \
-I'm currently learning some **HTMX** with **Go** + some **networking** 💻
+### Interests °˖✧◝(⁰▿⁰)◜✧˖°
+I love software with a passion and enjoy exploring how different domains tackle their unique challenges, in my free time, I have a soft spot for researching and playing around with:
+
+- Compilers & static analysis 
+- Machine Learning, Computer Vision, & Reinforcement Learning
+- Databases and their internals
+- Competitive programming
+
+
