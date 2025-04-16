@@ -38,7 +38,7 @@ When I'm not online I like to watch anime and love building Gundam models <img s
 I love software with a passion and enjoy exploring how different domains tackle their unique challenges, in my free time, I have a soft spot for researching and playing around with:
 
 - Compilers & static analysis 
-- Machine Learning, Computer Vision, & Reinforcement Learning
+- Machine Learning, Computer Vision, Reinforcement Learning, & Big Data
 - Databases and their internals
 - Competitive programming
 
