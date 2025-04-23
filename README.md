@@ -1,4 +1,4 @@
-## Hi! <a href="https://emoji.gg/emoji/5226_miku"><img src="https://cdn3.emoji.gg/emojis/5226_miku.png" width="40px" height="32px" alt="miku"></a>
+## Hi! <img src="https://cdn3.emoji.gg/emojis/5226_miku.png" width="40px" height="32px" alt="miku">
 I'm a Software Engineer working on this site! :octocat: and I enjoy learning new things everyday!\
 When I'm not online I like to watch anime and love building Gundam models <img src="https://github.com/tsusdere/tsusdere/assets/27039604/85a8e3b3-b9ad-40d7-9fa1-62a9c84bfc3a" width="33" height="33"/>
 
